@@ -2,7 +2,7 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
   url("assets/campus-shot.jpeg");
 
-  height: 2000px;
+  height: 1000px;
   width: 100%;
   /* height: 90%;
   width: 100%; */
@@ -22,7 +22,7 @@
   transform: translate(-50%, -50%);
   color:white;
   font-size: 100px;
-  font-family: 'Staatliches', cursive;
+  font-family: 'Helvetica', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
@@ -44,6 +44,39 @@
 }
 
 .why-behind-whiteness img{
-  width: 90%;
-  height: 60%;
+  width: 70%;
+  height: 45%;
+  padding-left: 40px;
+}
+
+body {
+  background-color: WhiteSmoke;
+}
+
+
+
+.axis path,
+.axis line {
+                fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+                display: none;
+}
+
+#bar-tooltip {
+    
+    position: fixed;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 5px;
+
+
+
+}
+
+#bar-tooltip.hidden {
+    display: none;
 }

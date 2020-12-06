@@ -1,0 +1,81 @@
+[
+    {
+        "categorie": "White",
+        "values": [
+            {
+                "value": 94,
+                "rate": "1980"
+            },
+            {
+                "value": 65.9,
+                "rate": "2019"
+            }
+        ]
+    },
+    {
+        "categorie": "Asian",
+        "values": [
+            {
+                "value": 2,
+                "rate": "1980"
+            },
+            {
+                "value": 10.7,
+                "rate": "2019"
+            }
+        ]
+    },
+    {
+        "categorie": "Black or African American",
+        "values": [
+            {
+                "value": 3,
+                "rate": "1980"
+            },
+            {
+                "value": 4.5,
+                "rate": "2019"
+            }
+        ]
+    },
+    {
+        "categorie": "Hispanic/Latino",
+        "values": [
+            {
+                "value": 0,
+                "rate": "1980"
+            },
+            {
+                "value": 12,
+                "rate": "2019"
+            }
+        ]
+    },
+    
+    {
+        "categorie": "Two or More Races/Ethnicity",
+        "values": [
+            {
+                "value": 0,
+                "rate": "1980"
+            },
+            {
+                "value": 4.3,
+                "rate": "2019"
+            }
+        ]
+    },
+    {
+        "categorie": "Other",
+        "values": [
+            {
+                "value": 1,
+                "rate": "1980"
+            },
+            {
+                "value": 1,
+                "rate": "2019"
+            }
+        ]
+    }
+]

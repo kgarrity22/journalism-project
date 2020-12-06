@@ -79,7 +79,7 @@ d3.json("data.json", function(error, data) {
               .style("opacity", 1)
               .attr("display", "block")
               .html(`<strong>Year:</strong> ${d.rate}<br><strong>Percentage: </strong>${d.value}`)
-                        .style("top", (250 + "px"))
+                        .style("top", (0 + "px"))
               .style("font-family", "Gill Sans")
               .style("font-size", "12px")
               .style("background-color", "white")

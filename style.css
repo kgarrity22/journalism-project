@@ -125,3 +125,7 @@ body {
 div {
   line-height: 1.6
 }
+
+.image-caption {
+  font-size: 11px;
+}

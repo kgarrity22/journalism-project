@@ -80,3 +80,31 @@ body {
 #bar-tooltip.hidden {
     display: none;
 }
+
+
+.student-experiences {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.student-experiences img{
+  width: 70%;
+  height: 45%;
+  padding-left: 40px;
+}
+
+.whats-next {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.whats-next img{
+  width: 70%;
+  height: 45%;
+  padding-left: 40px;
+}
+
+.bc-perspective {
+  padding-left: 200px;
+  padding-right: 200px;
+}

@@ -129,3 +129,8 @@ div {
 .image-caption {
   font-size: 11px;
 }
+
+.section-header {
+  text-align: center;
+  font-size: 28px;
+}

@@ -104,6 +104,8 @@ body {
   width: 70%;
   height: 45%;
   padding-left: 40px;
+  padding-bottom: 200px;
+  margin-bottom: 200px;
 }
 
 .bc-perspective {

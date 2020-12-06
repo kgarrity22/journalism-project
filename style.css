@@ -1,5 +1,5 @@
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
   url("assets/campus-shot.jpeg");
 
   height: 1000px;
@@ -22,15 +22,15 @@
   transform: translate(-50%, -50%);
   color:white;
   font-size: 100px;
-  font-family: 'Helvetica', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: "Georgia";
 }
 
 
 .intro {
   /* margin-left: 200px;
   margin-right: 200px; */
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .intro img {
@@ -39,8 +39,8 @@
 }
 
 .why-behind-whiteness {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .why-behind-whiteness img{
@@ -51,6 +51,8 @@
 
 body {
   background-color: WhiteSmoke;
+  font-family: Georgia, serif;
+  
 }
 
 
@@ -83,8 +85,8 @@ body {
 
 
 .student-experiences {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .student-experiences img{
@@ -94,8 +96,8 @@ body {
 }
 
 .whats-next {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .whats-next img{
@@ -105,6 +107,17 @@ body {
 }
 
 .bc-perspective {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.title {
+  font-size: 32px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.title h5 {
+  font-size: 15px;
+  font-weight: 100;
 }
